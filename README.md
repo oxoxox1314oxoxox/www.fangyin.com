@@ -1,2 +1,2 @@
-# www.fangyin.com
-520fanyin.com
+# www.fangyin.work
+520fanyin.work
